@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nome": "Ricardo",
+    "produtos": [
+      "Bolo de pote",
+      "Trufa"
+    ],
+    "pagamento": [
+      "Pix",
+      "cartão"
+    ],
+    "latitude": "-5.843552",
+    "longitude": "-35.199322",
+    "local":"ECT"
+  },
+  {
+    "id": 2,
+    "nome": "Ana",
+    "produtos": [
+      "Brownie",
+      "Sanduiche Natural"
+    ],
+    "pagamento": [
+      "Pix",
+      "cartão"
+    ],
+    "latitude": "-5.843132",
+    "longitude": "-35.199385",
+    "local":"Setor IV"
+  },
+  {
+    "id": 3,
+    "nome": "Matheus",
+    "produtos": [
+      "Empada"
+    ],
+    "pagamento": [
+      "Pix",
+      "cartão"
+    ],
+    "latitude": "-5.838337",
+    "longitude": "-35.200662",
+    "local":"Departamento de Comunicações"
+  },
+  {
+    "id": 4,
+    "nome": "Rafael",
+    "produtos": [
+      "Açaí",
+      "Pastel"
+    ],
+    "pagamento": [
+      "Pix",
+      "cartão"
+    ],
+    "latitude": "-5.832035",
+    "longitude": "-35.205211",
+    "local":"IMD"
+  },
+  {
+    "id": 5,
+    "nome": "Ricardo",
+    "produtos": [
+      "Brigadeiro",
+      "Beijinho",
+      "Trufa"
+    ],
+    "pagamento": [
+      "Pix",
+      "cartão"
+    ],
+    "latitude": "-5.836005",
+    "longitude": "-35.202228",
+    "local":"Departamento de Educação Física"
+  }
+]
